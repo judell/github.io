@@ -1,0 +1,45 @@
+body { font-family:verdana; margin: .25in }
+
+h1 { margin-left:6px }
+
+table { margin:auto; margin-top:20px }
+
+td { padding: 6px; }
+
+#play-clip-intro { visibility:hidden; }
+
+#play-clip-all { visibility:hidden; }
+
+#play-clip-outro { visibility:hidden; }
+
+#permalink { margin-top:20px; text-align:center }
+
+#permalinkText { word-wrap:break-word; text-align:center }
+
+.arrow { font-size:larger; cursor:pointer }
+
+.end-controls .arrow {  }
+
+.label { font-weight:bold }
+
+.left-arrow { margin-left:10px; margin-right:2px }
+
+.min-or-sec { width:30px; }
+
+td.play-clip { padding:0 }
+
+td.play-clip-intro { text-align:left }
+
+td.play-clip-all { text-align:center }
+
+td.play-clip-outro { text-align:right }
+
+.permalink { font-size:smaller }
+
+.play-clip-controls-container { }
+
+.start-controls .arrow {  }
+
+.unit { font-family:courier }
+
+.url-label { margin-left:10px; margin-top:40px }
